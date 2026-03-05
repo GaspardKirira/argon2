@@ -1,0 +1,28 @@
+{
+  "name": "argon2",
+  "namespace": "gk",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Minimal header-only Argon2 password hashing and verification utilities for C++.",
+  "keywords": [
+    "argon2",
+    "password",
+    "hashing",
+    "authentication",
+    "security",
+    "crypto",
+    "memory-hard",
+    "cpp",
+    "header-only",
+    "vix"
+  ],
+  "repository": "https://github.com/Gaspardkirira/argon2",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
+}
